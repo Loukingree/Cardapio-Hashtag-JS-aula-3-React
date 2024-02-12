@@ -1,3 +1,6 @@
+Neste projeto constuimos um Back-end simples para rodar o cardapio digital, e utilizamos React + Vite. Um primeiro contato com as tecnologias.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
